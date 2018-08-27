@@ -1,0 +1,4 @@
+deploy script
+
+	create table users(UserName, UserPassword, UserMail, Id -> ),
+	create procedure SignIn(in UserName, in UserPassword(hash), Out isIn(boolean))

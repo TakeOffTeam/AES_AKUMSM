@@ -1,0 +1,3 @@
+create service connector_bd
+create service main_service
+create config for main_service
